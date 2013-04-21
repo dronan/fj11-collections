@@ -1,0 +1,1 @@
+Uso e testes com collections; uso do iterator
